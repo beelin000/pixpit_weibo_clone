@@ -1,0 +1,14 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+log/
+build/
+### Flutter ###
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+analysis_options.yaml
+pubspec.lock
+.dart_tool
